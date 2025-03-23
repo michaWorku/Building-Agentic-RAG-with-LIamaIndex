@@ -15,7 +15,7 @@ This repository contains course notes and notebooks for **Building Agentic RAG w
 
 ## **📂 Course Content**  
 
-### [**1️⃣ Router Query Engine**]()  
+### [**1️⃣ Router Query Engine**](https://github.com/michaWorku/Building-Agentic-RAG-with-LIamaIndex/tree/main/Lesson_1)  
 The **Router Engine** intelligently selects the right retrieval strategy:  
 - **Vector Index** – Finds the most similar document nodes.  
 - **Summary Index** – Uses the full document summary for queries.  
@@ -32,7 +32,7 @@ The **Router Engine** intelligently selects the right retrieval strategy:
 - **Pydantic Selectors** – Use OpenAI’s function calling API.  
 
 
-### [**2️⃣ Tool Calling for Enhanced Retrieval**]()  
+### [**2️⃣ Tool Calling for Enhanced Retrieval**](https://github.com/michaWorku/Building-Agentic-RAG-with-LIamaIndex/tree/main/Lesson_2)  
 Tool calling enables **LLMs to interact with external tools**, improving query understanding and retrieval accuracy.  
 
 #### **Key Concepts:**  
@@ -46,7 +46,7 @@ Tool calling enables **LLMs to interact with external tools**, improving query u
 ✅ Build a **multi-tool system** combining **vector search & summarization**.  
 
 
-### [**3️⃣ Building an Agent Reasoning Loop**]()  
+### [**3️⃣ Building an Agent Reasoning Loop**](https://github.com/michaWorku/Building-Agentic-RAG-with-LIamaIndex/tree/main/Lesson_3)  
 An **agentic RAG system** involves multi-step reasoning over multiple documents.  
 
 #### **Core Components:**  
@@ -65,7 +65,7 @@ An **agentic RAG system** involves multi-step reasoning over multiple documents.
 ✔ **Steerability** – Modify intermediate steps with human feedback.  
 
 
-### [**4️⃣ Building a Multi-Document Agent**]()  
+### [**4️⃣ Building a Multi-Document Agent**](https://github.com/michaWorku/Building-Agentic-RAG-with-LIamaIndex/tree/main/Lesson_4)  
 This section extends the **agentic reasoning model** to handle multiple documents efficiently.  
 
 #### **Implementation Steps**  
@@ -79,7 +79,7 @@ This section extends the **agentic reasoning model** to handle multiple document
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/your-repo-url.git
+git clone[ https://github.com/your-repo-url.git](https://github.com/michaWorku/Building-Agentic-RAG-with-LIamaIndex.git)
 cd your-repo-folder
 ```
 
